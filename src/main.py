@@ -4,8 +4,6 @@ import sys
 from entity import *
 from map import Map
 from map_list import *
-'''
-one line of comment'''
 
 class Portal2D:
     """class for game"""
